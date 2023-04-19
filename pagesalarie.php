@@ -28,7 +28,7 @@ session_start();
                 <a href="pagesalarie.php"><img src="logom.png" alt="Logo MW" style="height:50px;display:inline-block;margin-right:10px;"></a>                   
 
                 <a class="navbar-brand" >
-                   Connecté en tant que Commercial 
+                   Connecté en tant que Commercial MW
                 </a>
 
                 <button type="button" class="navbar-toggle navbar-toggle-sidebar collapsed">
@@ -184,6 +184,9 @@ mysqli_close($conn);
   <p><input type="submit" value="Soummettre" name="btn"></p>
 </form>
 </div>
+
+<h1>Bienvenu à GIT </h1>
+
 </form>
 
 
