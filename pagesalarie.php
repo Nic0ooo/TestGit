@@ -28,7 +28,7 @@ session_start();
                 <a href="pagesalarie.php"><img src="logom.png" alt="Logo MW" style="height:50px;display:inline-block;margin-right:10px;"></a>                   
 
                 <a class="navbar-brand" >
-                   Connecté en tant que Commercial MW
+                   Connecté en tant que Commercial MW 2023
                 </a>
 
                 <button type="button" class="navbar-toggle navbar-toggle-sidebar collapsed">
